@@ -1,5 +1,5 @@
 # Config data exposed by config server
 
 info:
-  foo: bar
-  someList: [1, 2, 3]
+  foo: krishna checking.. config server
+  someList: [1, 2, 3, 4, 5]
